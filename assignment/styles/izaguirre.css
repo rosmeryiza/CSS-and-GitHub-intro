@@ -4,13 +4,13 @@
     */
 
 body {
-    background: #0B0068; /* must change */
+    background: #B0AAC2; /* must change */
     color: #000; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
 
 article {
-    background: #FCC602;
+    background: #F2EFE8;
     width: 800px; /* keep */
     padding: 20px; /* keep */
     margin: auto; /* keep */
@@ -19,25 +19,24 @@ article {
 
 /* --- ADD YOUR STYLES BELOW --- */
 header, footer {
-  background: #FCF4AC;
+  background: #C2D4D8;
 }
 
 aside {
-  background: #0B0068;
-  color: #fff;
+  background: #B0AAC2;
 }
 
 figure{
-  background: #D1BA8B;
+  background: #DBE9D8;
 }
 /* --- add your PSEUDO CLASSES below this line --- */
 a:link {color: #FF1E0D;
 }
-a:visited {color: #7F0F06;
+a:visited {color: #680600;
 }
 a:focus {outline-color: #FF6559;
 }
 a:hover {color: #D3190B;
 }
-a:active {color: #7F332D;
+a:active {color: #C000AE;
 }
